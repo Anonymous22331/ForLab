@@ -1,0 +1,3 @@
+﻿  sidorovlaba3.cpp
+C:\Users\makar\source\repos\sidorovlaba3\sidorovlaba3\sidorovlaba3.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sidorovlaba3.vcxproj -> C:\Users\makar\source\repos\sidorovlaba3\Debug\sidorovlaba3.exe
